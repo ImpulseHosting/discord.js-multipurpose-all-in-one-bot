@@ -112,4 +112,6 @@ ImpulseHost [discord](https://discord.gg/impulsehost)
 
 > if you have any questions join the server! (plenty more new commands & updates in the future)
 
+```git clone https://github.com/ImpulseHosting/discord.js-multipurpose-all-in-one-bot.git```
+
 [LICENSE](./LICENSE)
