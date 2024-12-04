@@ -13,10 +13,10 @@ module.exports = {
       embed: {
         title: "Fast Type 🎹",
         color: "#5865F2",
-        description: "You have {time} seconds to type the sentence below.", // You can add more sentences as shown in setup.md!
+        description: "You have {time} seconds to type the sentence below.",
       },
       timeoutTime: 60000,
-      sentence: "Very good sentence to type.",
+      sentence: "Very good sentence to type.", // more sentances added next update
       winMessage:
         "You won! You finished the typing race in {time} seconds with the wpm of {wpm}.",
       loseMessage: "You lost... You didn't type the correct sentence in time.",
