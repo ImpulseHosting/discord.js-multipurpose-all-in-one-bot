@@ -1,3 +1,5 @@
+// this is for levels which we dont have yet currently (soon) \\
+
 const mongoose = require("mongoose");
 
 const userSchema = new mongoose.Schema({
