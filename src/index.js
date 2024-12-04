@@ -1,5 +1,3 @@
-// * if you really want to change stuff in here PLEASE only change colors, underlines and bold changing/removing or adding stuff could break the bot * \\
-
 require("dotenv").config();
 const {
   Client,
