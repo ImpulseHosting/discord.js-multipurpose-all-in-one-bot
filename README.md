@@ -106,15 +106,7 @@ you can change it by changing the 10000 like this:
 
 # HOSTING
 
-![Impulse Host Banner](https://media.discordapp.net/attachments/1282489543278461050/1309682217143767081/impulsehostbanner.png?ex=6742781d&is=6741269d&hm=b1193e47a494485a72e5f6055441f264d86572330f4de771ab5e56946af9f5a1&=&format=webp&quality=lossless&width=550&height=309)
-
-[impulsehost](https://dash.impulsehost.cloud/home) provides the best free discord bot hosting servercise with cheap prices and plans shown below:
-
-![alt text](https://media.discordapp.net/attachments/1144970574205026304/1309688011998629898/image.png?ex=67427d82&is=67412c02&hm=f4ac5aa8f5b35e60cb119df1473cf8b6746310d1313933e0722284c13bc26fe6&=&format=webp&quality=lossless&width=438&height=618)
-
-![alt text](https://media.discordapp.net/attachments/1144970574205026304/1309688012250157177/image.png?ex=67427d82&is=67412c02&hm=e4a988b34c5bce5f24d594a575b32bf6e63c58c04cb20f38a41aab09239c84e8&=&format=webp&quality=lossless)
-
-![alt text](https://media.discordapp.net/attachments/1144970574205026304/1309688012543623273/image.png?ex=67427d83&is=67412c03&hm=aef575872a1df2183c0ca7aa28c34c917a7e6aa47532dc58c19bc081ccd9526d&=&format=webp&quality=lossless)
+[impulsehost](https://dash.impulsehost.cloud/home)
 
 ImpulseHost [discord](https://discord.gg/impulsehost)
 
