@@ -284,14 +284,14 @@ const treasures = [
   },
   {
     name: "Magic Wand",
-    emoji: "<:magic_wand:1313371796329988177>",
+    emoji: "<:magic_wand:1313371796329988177>", // add this emoji or use /steal on apoll
     price: 25000,
     rarity: "Mythical",
     probability: 1.5,
   },
   {
     name: "Highly Classified Cia Documents",
-    emoji: "<:secrets:1313371781171777577>",
+    emoji: "<:secrets:1313371781171777577>", // add this emoji or use /steal on apollo
     price: 1000000,
     rarity: "Classified",
     probability: 0.5,
