@@ -1,5 +1,3 @@
-(best view with https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview)
-
 # AIO DISCORD.JS BOT
 
 (my first actual discord.js project)
