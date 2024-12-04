@@ -1,10 +1,8 @@
 # AIO DISCORD.JS BOT
 
-(my first actual discord.js project)
-
 - 53 commands
 
-> economy, fun, info, util
+> economy, fun, info, util, moderation, api
 
 ---
 
@@ -109,10 +107,6 @@ you can change it by changing the 10000 like this:
 [impulsehost](https://dash.impulsehost.cloud/home)
 
 ImpulseHost [discord](https://discord.gg/impulsehost)
-
----
-
-> UPDATES WILL BE POSTED IN UPDATES.md
 
 ---
 
